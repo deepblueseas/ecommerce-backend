@@ -4,8 +4,25 @@
 > Using **Express.js**, **Sequelize**, and **PostgreSQL**, the goal of this challenge is to build a backend for an e-commerce site.
 
 ## Table of Contents
-I. Acceptance Criteria <br>
-II. Image Example of App <br>
-III. Video Walk-through Tutorial
+I. [Acceptance Criteria](#acceptance-criteria) <br>
+II. [Image Example of App](#image-of-working-app) <br>
+III. [Video Walk-through Tutorial](#video-tutorial)
+
+## Acceptance Criteria
+> - GIVEN a functional Express.js API
+> -  When I add my database name, PostgreSQL username and password to a .env
+>   - I am able to connect to a database using Sequelize
+> - When I enter schema and seed commands
+>   - A development database is created and is seeded with test data
+> - When I enter the command to invoke the application
+>   - My server is started and Sequelize models are synced to the PostgreSQL database
+> - When I open API GET routes in Insomnia Core for categories, products, or tags
+>   - The data for each of these routes is displayed in a formatted JSON
+> - When I test API POST, PUT, and DELETE routes in Insomnia Core
+>   - I am able to successfully create, update, and delete data in my database
+
+## Image of Working App
+
+## Video Tutorial
 
 ### starter code credit: https://github.com/coding-boot-camp/bookish-sniffle/tree/main
