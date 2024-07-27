@@ -29,7 +29,7 @@ This App runs in insomnia!  Connect your server via npm i and you'll be able to 
 
 ## Video Tutorial
 I accidentally updated the id of 4 and the id of 1 in the video tutorial, but in the panic of being on-screen simply did both! <br>
-**
+<br>
 **[Video](https://app.screencastify.com/v3/watch/8Cwl2FtOcvyyxcaysGGk)**
 
 ### starter code credit: https://github.com/coding-boot-camp/bookish-sniffle/tree/main
