@@ -6,7 +6,8 @@
 ## Table of Contents
 I. [Acceptance Criteria](#acceptance-criteria) <br>
 II. [Image Example of App](#image-of-working-app) <br>
-III. [Video Walk-through Tutorial](#video-tutorial)
+III. [Video Walk-through Tutorial](#video-tutorial) <br>
+IV. [Source Code Credit](#starter-code-credit-httpsgithubcomcoding-boot-campbookish-sniffletreemain)
 
 ## Acceptance Criteria
 > - GIVEN a functional Express.js API
@@ -22,6 +23,9 @@ III. [Video Walk-through Tutorial](#video-tutorial)
 >   - I am able to successfully create, update, and delete data in my database
 
 ## Image of Working App
+This App runs in insomnia!  Connect your server via npm i and you'll be able to access the routes! <br>
+
+![working-app](images/ecommerceapp.png)
 
 ## Video Tutorial
 
